@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
