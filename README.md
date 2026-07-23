@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohit1302a/Coding-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohit1302a/Coding-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
