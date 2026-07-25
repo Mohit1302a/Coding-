@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohit1302a/Coding-/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 ## Binary Search
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohit1302a/Coding-/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
