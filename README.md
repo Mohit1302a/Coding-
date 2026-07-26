@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Mohit1302a/Coding-/tree/master/0867-transpose-matrix) |
+| [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
+| [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
