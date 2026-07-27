@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Mohit1302a/Coding-/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
