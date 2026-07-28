@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
+| [1323-maximum-69-number](https://github.com/Mohit1302a/Coding-/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/Mohit1302a/Coding-/tree/master/1323-maximum-69-number) |
 ## Matrix
 |  |
 | ------- |
