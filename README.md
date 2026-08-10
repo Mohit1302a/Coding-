@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohit1302a/Coding-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohit1302a/Coding-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mohit1302a/Coding-/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Mohit1302a/Coding-/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mohit1302a/Coding-/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
