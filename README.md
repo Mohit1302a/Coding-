@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mohit1302a/Coding-/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Mohit1302a/Coding-/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mohit1302a/Coding-/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Mohit1302a/Coding-/tree/master/1051-height-checker) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohit1302a/Coding-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Mohit1302a/Coding-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mohit1302a/Coding-/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Mohit1302a/Coding-/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
