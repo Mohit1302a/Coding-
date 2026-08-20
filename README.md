@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Mohit1302a/Coding-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Mohit1302a/Coding-/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mohit1302a/Coding-/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mohit1302a/Coding-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
