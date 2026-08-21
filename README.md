@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit1302a/Coding-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mohit1302a/Coding-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Mohit1302a/Coding-/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit1302a/Coding-/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mohit1302a/Coding-/tree/master/3668-restore-finishing-order) |
