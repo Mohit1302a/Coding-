@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
+| [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
 | [0867-transpose-matrix](https://github.com/Mohit1302a/Coding-/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Mohit1302a/Coding-/tree/master/1051-height-checker) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
 | [1323-maximum-69-number](https://github.com/Mohit1302a/Coding-/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mohit1302a/Coding-/tree/master/1688-count-of-matches-in-tournament) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Mohit1302a/Coding-/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
