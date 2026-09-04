@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohit1302a/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohit1302a/Coding-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Mohit1302a/Coding-/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Mohit1302a/Coding-/tree/master/3959-check-good-integer) |
 ## Binary Search
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Mohit1302a/Coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mohit1302a/Coding-/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/Mohit1302a/Coding-/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Mohit1302a/Coding-/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mohit1302a/Coding-/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Mohit1302a/Coding-/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
