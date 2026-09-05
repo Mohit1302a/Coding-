@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mohit1302a/Coding-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Mohit1302a/Coding-/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/Mohit1302a/Coding-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mohit1302a/Coding-/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Mohit1302a/Coding-/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mohit1302a/Coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Mohit1302a/Coding-/tree/master/1920-build-array-from-permutation) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/Mohit1302a/Coding-/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mohit1302a/Coding-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3110-score-of-a-string](https://github.com/Mohit1302a/Coding-/tree/master/3110-score-of-a-string) |
 ## Hash Table
