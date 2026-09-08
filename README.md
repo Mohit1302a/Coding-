@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit1302a/Coding-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohit1302a/Coding-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mohit1302a/Coding-/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3870-count-commas-in-range](https://github.com/Mohit1302a/Coding-/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/Mohit1302a/Coding-/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Mohit1302a/Coding-/tree/master/3959-check-good-integer) |
 ## Binary Search
