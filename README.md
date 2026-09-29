@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mohit1302a/Coding-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mohit1302a/Coding-/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Mohit1302a/Coding-/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mohit1302a/Coding-/tree/master/0118-pascals-triangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit1302a/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohit1302a/Coding-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
