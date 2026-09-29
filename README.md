@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mohit1302a/Coding-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Mohit1302a/Coding-/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/Mohit1302a/Coding-/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Mohit1302a/Coding-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohit1302a/Coding-/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Mohit1302a/Coding-/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
