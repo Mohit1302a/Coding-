@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Mohit1302a/Coding-/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Mohit1302a/Coding-/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/Mohit1302a/Coding-/tree/master/0856-score-of-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mohit1302a/Coding-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3110-score-of-a-string](https://github.com/Mohit1302a/Coding-/tree/master/3110-score-of-a-string) |
 ## Hash Table
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit1302a/Coding-/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Mohit1302a/Coding-/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Mohit1302a/Coding-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
