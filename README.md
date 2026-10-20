@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohit1302a/Coding-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Mohit1302a/Coding-/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohit1302a/Coding-/tree/master/1512-number-of-good-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mohit1302a/Coding-/tree/master/0118-pascals-triangle) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohit1302a/Coding-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
