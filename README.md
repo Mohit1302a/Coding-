@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohit1302a/Coding-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit1302a/Coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mohit1302a/Coding-/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
@@ -223,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
