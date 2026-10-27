@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohit1302a/Coding-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit1302a/Coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit1302a/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Mohit1302a/Coding-/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit1302a/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit1302a/Coding-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mohit1302a/Coding-/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
