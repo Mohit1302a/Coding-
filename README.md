@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mohit1302a/Coding-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Mohit1302a/Coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohit1302a/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/Mohit1302a/Coding-/tree/master/0679-24-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mohit1302a/Coding-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mohit1302a/Coding-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mohit1302a/Coding-/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
