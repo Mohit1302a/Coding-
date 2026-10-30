@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Mohit1302a/Coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mohit1302a/Coding-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohit1302a/Coding-/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohit1302a/Coding-/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mohit1302a/Coding-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Mohit1302a/Coding-/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit1302a/Coding-/tree/master/2396-strictly-palindromic-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit1302a/Coding-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohit1302a/Coding-/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Linked List
 |  |
 | ------- |
