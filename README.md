@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Mohit1302a/Coding-/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit1302a/Coding-/tree/master/1137-n-th-tribonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit1302a/Coding-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit1302a/Coding-/tree/master/0416-partition-equal-subset-sum) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit1302a/Coding-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
